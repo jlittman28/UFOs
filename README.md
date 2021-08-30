@@ -19,7 +19,7 @@ Alternatively, you could sort by country by clicking in the white input box labe
 ## Summary
 There is a vast accounts of UFO sightings across the Contigious United States and Canada.
 
-* One Drawback of the webpage: As data grows it might be more difficult to see trends to provide a more indepth analysis.
+* One Drawback of the webpage: As data grows it might be more difficult to see trends to provide a more in-depth analysis over UFO sightings.
 
 * Recommendation One: Add a heatmap to show where a majority of the sightings were found.
 * Recommendation Two: Include a line graph that shows number of sightings for each date.
