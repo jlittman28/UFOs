@@ -17,7 +17,7 @@ Alternatively, you could sort by country by clicking in the white input box labe
 ![image](https://user-images.githubusercontent.com/85204128/131271361-890a5960-1360-47d3-bb8b-c6e0b6289016.png)
 
 ## Summary
-There is a vast accounts of UFO sightings across the Contigious United States and Canada.
+There are vast accounts of UFO sightings across the Contigious United States and Canada.
 
 * One Drawback of the webpage: As data grows it might be more difficult to see trends to provide a more in-depth analysis over UFO sightings.
 
